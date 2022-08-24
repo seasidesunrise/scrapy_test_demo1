@@ -1,0 +1,17 @@
+.idea
+csv
+*.data
+**/__pycache__
+
+images
+*.xml
+*_cst.py
+作废
+qmt/docs
+test
+*.ipynb
+build
+*.c
+*.so
+encryption.py
+*.pyd
